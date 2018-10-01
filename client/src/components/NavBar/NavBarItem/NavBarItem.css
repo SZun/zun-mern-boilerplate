@@ -1,0 +1,11 @@
+.navbar__main-item {
+  margin: 2rem;
+}
+
+.navbar__main-item hr {
+  border-color: #222222;
+}
+
+.navbar__main-item i {
+  color: #54e75b;
+}

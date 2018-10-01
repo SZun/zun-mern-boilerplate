@@ -1,0 +1,5 @@
+.custom-button,
+.custom-button:active {
+  color: #ffffff !important;
+  background-color: #54e75b !important;
+}

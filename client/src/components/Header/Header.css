@@ -1,0 +1,10 @@
+.main__header-text {
+  text-align: center;
+  color: #54e75b;
+  text-shadow: 2px 2px #000000;
+  font-family: 'Satisfy', cursive;
+}
+
+.main__header-text::first-letter {
+  text-transform: capitalize;
+}
