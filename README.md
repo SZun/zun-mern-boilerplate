@@ -10,11 +10,8 @@ git clone https://github.com/SZun/zun-mern-boilerplate.git && cd zun-mern-boiler
 
 ```
 const keys = {
-  secretOrKey: `gvjhbknljvgjh bjkvucgvhbj46576867565677 5gvhbjhjghcgvhjghfcgv
-  "L:kjhgfxdszfxgcuyviboNOP BOV?ci.uxly,˚†cyivuobiphV OCi'/;xuly˚†ciyvoubipV
-  "C;xul`,
-  mongoURI:
-    'mongodb://localhost/todo_app'
+  secretOrKey: 'YOUR-SECRET-OR-KEY-HERE',
+  mongoURI: 'YOUR-CONNECTION-STRING-HERE'
 };
 
 export default keys;
