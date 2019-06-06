@@ -11,7 +11,7 @@
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
   "keywords": [],
-  "author": "",
+  "author": "Zun <zunsamuel97@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
@@ -30,12 +30,9 @@
   "prettier": {
     "singleQuote": true
   },
-  "engines": {
-    "node": "10.10.0",
-    "npm": "6.4.1"
-  },
   "devDependencies": {
     "concurrently": "^4.0.1",
     "nodemon": "^1.18.4"
-  }
+  },
+  "repository": "https://github.com/SZun/zun-mern-boilerplate.git"
 }
